@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="nopCommerceApp">
+
+	<listeners>
+		<listener
+			class-name="app.nopcommerce.Utilities.ExtentReportManager" />
+	</listeners>
+
+	<test name="chromeTest">
+		<parameter name="browser" value="chrome" />
+		<classes>
+		
+			<class name="app.nopcommerce.testCases.TC_001_LoginTest" />
+			<class name="app.nopcommerce.testCases.TC_002_DataDrivenTest_Login_with_Fillo" />
+			<class name="app.nopcommerce.testCases.TC_003_AddCustomerTest" />
+			<class name="app.nopcommerce.testCases.TC_004_SearchCustomerByEmail" />
+			<class name="app.nopcommerce.testCases.TC_005_SearchCustomerByName" />
+			<class name="app.nopcommerce.testCases.TC_006_LoginDDT_with_Apachi_poi" />
+			
+		</classes>
+	</test>
+	
+</suite>

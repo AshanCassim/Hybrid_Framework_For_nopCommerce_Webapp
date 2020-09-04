@@ -1,0 +1,24 @@
+2020-08-29T13:11:29,895 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-08-29T13:12:17,819 [main] INFO  (TC_LoginTest_001.java:17) - ********* starting TC_LoginTest_001 *************
+2020-08-29T13:12:33,344 [main] INFO  (TC_LoginTest_001.java:23) - ********* Providing login details to application *************
+2020-08-29T13:12:34,814 [main] INFO  (TC_LoginTest_001.java:28) - *********Clicking on the login button*************
+2020-08-29T13:12:43,944 [main] INFO  (TC_LoginTest_001.java:36) - ********* Login validation starting..*************
+2020-08-29T13:12:43,945 [main] INFO  (TC_LoginTest_001.java:40) - *********Login Test passed*************
+2020-08-29T13:12:45,219 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-08-29T13:12:49,160 [main] INFO  (TC_AddCustomerTest_003.java:17) - ********* starting TC_AddCustomerTest_003 *************
+2020-08-29T13:13:01,920 [main] INFO  (TC_AddCustomerTest_003.java:26) - *********Adding new customer *************
+2020-08-29T13:13:07,303 [main] INFO  (TC_AddCustomerTest_003.java:35) - ***************  Providing customer details  *********** 
+2020-08-29T13:13:20,853 [main] INFO  (TC_AddCustomerTest_003.java:54) - ***************  Customer added succesfully *********** 
+2020-08-29T13:13:20,854 [main] INFO  (TC_AddCustomerTest_003.java:62) - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2020-08-29T13:29:04,626 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-08-29T13:29:09,065 [main] INFO  (TC_LoginTest_001.java:17) - ********* starting TC_LoginTest_001 *************
+2020-08-29T13:29:13,709 [main] INFO  (TC_LoginTest_001.java:23) - ********* Providing login details to application *************
+2020-08-29T13:29:13,962 [main] INFO  (TC_LoginTest_001.java:28) - *********Clicking on the login button*************
+2020-08-29T13:29:22,546 [main] INFO  (TC_LoginTest_001.java:36) - ********* Login validation starting..*************
+2020-08-29T13:29:22,547 [main] INFO  (TC_LoginTest_001.java:40) - *********Login Test passed*************
+2020-08-29T13:29:23,360 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-08-29T13:29:26,796 [main] INFO  (TC_AddCustomerTest_003.java:17) - ********* starting TC_AddCustomerTest_003 *************
+2020-08-29T13:29:38,635 [main] INFO  (TC_AddCustomerTest_003.java:26) - *********Adding new customer *************
+2020-08-29T13:29:43,829 [main] INFO  (TC_AddCustomerTest_003.java:35) - ***************  Providing customer details  *********** 
+2020-08-29T13:29:56,110 [main] INFO  (TC_AddCustomerTest_003.java:54) - ***************  Customer added succesfully *********** 
+2020-08-29T13:29:56,111 [main] INFO  (TC_AddCustomerTest_003.java:62) - ***************   TC_AddCustomerTest_003 Finished  *********** 

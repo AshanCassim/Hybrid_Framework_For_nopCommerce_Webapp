@@ -1,0 +1,24 @@
+2020-09-03T17:15:01,637 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-03T17:15:11,493 [main] INFO  (DataDrivenTestxls.java:53) - ********* Providing login to application *************
+2020-09-03T17:15:11,523 [main] INFO  (DataDrivenTestxls.java:57) - ********* Providing login details to application *************
+2020-09-03T17:15:30,438 [main] INFO  (DataDrivenTestxls.java:75) - **************** loginTest is Passed ************* 
+2020-09-03T17:15:35,925 [main] INFO  (DataDrivenTestxls.java:104) - ********* Finished  TC_LoginDDT_002 *************
+2020-09-03T17:20:12,096 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-03T17:20:16,511 [main] INFO  (DataDrivenTestxls.java:53) - ********* Providing login to application *************
+2020-09-03T17:20:16,541 [main] INFO  (DataDrivenTestxls.java:57) - ********* Providing login details to application *************
+2020-09-03T17:20:33,187 [main] INFO  (DataDrivenTestxls.java:78) - **************** loginTest is Passed ************* 
+2020-09-03T18:08:56,803 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-03T18:09:02,594 [main] INFO  (TC_SearchCustomerByEmail_004.java:19) - ********* starting TC_SearchCustomerByEmail_004 *************
+2020-09-03T18:09:18,353 [main] INFO  (TC_SearchCustomerByEmail_004.java:42) - ********* Search customer by email is passed *************
+2020-09-03T18:09:18,358 [main] INFO  (TC_SearchCustomerByEmail_004.java:51) - ********* End of TC_SearchCustomerByEmail_004 *************
+2020-09-03T18:09:19,065 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-03T18:09:22,494 [main] INFO  (TC_SearchCustomerByName_005.java:19) - ********* starting TC_SearchCustomerByName_005 *************
+2020-09-03T18:09:38,049 [main] INFO  (TC_SearchCustomerByName_005.java:50) - ********* Search customer by name is passed *************
+2020-09-03T18:09:38,049 [main] INFO  (TC_SearchCustomerByName_005.java:55) - ********* End of TC_SearchCustomerByName_005 *************
+2020-09-03T18:11:01,696 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-03T18:11:05,888 [main] INFO  (TC_SearchCustomerByEmail_004.java:19) - ********* starting TC_SearchCustomerByEmail_004 *************
+2020-09-03T18:11:21,694 [main] INFO  (TC_SearchCustomerByEmail_004.java:42) - ********* Search customer by email is passed *************
+2020-09-03T18:11:21,696 [main] INFO  (TC_SearchCustomerByEmail_004.java:51) - ********* End of TC_SearchCustomerByEmail_004 *************
+2020-09-03T18:11:22,368 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-03T18:11:25,703 [main] INFO  (TC_SearchCustomerByName_005.java:19) - ********* starting TC_SearchCustomerByName_005 *************
+2020-09-03T18:11:41,597 [main] INFO  (TC_SearchCustomerByName_005.java:43) - ********* Search customer by name is failed*************

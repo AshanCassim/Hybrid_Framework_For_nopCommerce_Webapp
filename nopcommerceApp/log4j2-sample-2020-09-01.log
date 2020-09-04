@@ -1,0 +1,11 @@
+2020-09-01T11:58:02,366 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-01T11:58:21,888 [main] INFO  (TC_DataDrivenTest_Login_002.java:17) - ********* starting TC_LoginDDT_002 *************
+2020-09-01T11:58:37,363 [main] INFO  (TC_DataDrivenTest_Login_002.java:39) - ********* Providing login details to application *************
+2020-09-01T11:58:58,051 [main] INFO  (TC_DataDrivenTest_Login_002.java:58) - **************** loginTest is Passed ************* 
+2020-09-01T11:59:05,044 [main] INFO  (TC_DataDrivenTest_Login_002.java:39) - ********* Providing login details to application *************
+2020-09-01T11:59:12,942 [main] INFO  (TC_DataDrivenTest_Login_002.java:81) - **************** loginTest is Passed ************* 
+2020-09-01T11:59:12,945 [main] INFO  (TC_DataDrivenTest_Login_002.java:39) - ********* Providing login details to application *************
+2020-09-01T11:59:21,749 [main] INFO  (TC_DataDrivenTest_Login_002.java:81) - **************** loginTest is Passed ************* 
+2020-09-01T11:59:21,754 [main] INFO  (TC_DataDrivenTest_Login_002.java:39) - ********* Providing login details to application *************
+2020-09-01T11:59:30,485 [main] INFO  (TC_DataDrivenTest_Login_002.java:81) - **************** loginTest is Passed ************* 
+2020-09-01T11:59:30,486 [main] INFO  (TC_DataDrivenTest_Login_002.java:89) - ********* Finished  TC_LoginDDT_002 *************

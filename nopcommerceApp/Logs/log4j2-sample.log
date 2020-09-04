@@ -1,0 +1,56 @@
+2020-09-04T12:52:44,928 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-04T12:53:00,357 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:18) - ********* starting TC_LoginDDT_002 *************
+2020-09-04T12:53:19,034 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:34) - **************** loginTest is Passed ************* 
+2020-09-04T12:53:23,656 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:62) - ********* Finished  TC_LoginDDT_002 *************
+2020-09-04T12:53:23,701 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:18) - ********* starting TC_LoginDDT_002 *************
+2020-09-04T12:53:31,289 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:57) - **************** loginTest is Passed ************* 
+2020-09-04T12:53:31,290 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:62) - ********* Finished  TC_LoginDDT_002 *************
+2020-09-04T12:53:31,304 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:18) - ********* starting TC_LoginDDT_002 *************
+2020-09-04T12:53:38,673 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:57) - **************** loginTest is Passed ************* 
+2020-09-04T12:53:38,674 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:62) - ********* Finished  TC_LoginDDT_002 *************
+2020-09-04T12:53:38,677 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:18) - ********* starting TC_LoginDDT_002 *************
+2020-09-04T12:53:45,926 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:57) - **************** loginTest is Passed ************* 
+2020-09-04T12:53:45,926 [main] INFO  (TC_LoginDDT_006_with_Apachi_poi.java:62) - ********* Finished  TC_LoginDDT_002 *************
+2020-09-04T13:05:38,604 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-04T13:05:43,254 [main] INFO  (TC_001_LoginTest.java:17) - ********* starting TC_LoginTest_001 *************
+2020-09-04T13:05:48,000 [main] INFO  (TC_001_LoginTest.java:23) - ********* Providing login details to application *************
+2020-09-04T13:05:48,255 [main] INFO  (TC_001_LoginTest.java:28) - *********Clicking on the login button*************
+2020-09-04T13:05:56,556 [main] INFO  (TC_001_LoginTest.java:36) - ********* Login validation starting..*************
+2020-09-04T13:05:56,557 [main] INFO  (TC_001_LoginTest.java:40) - *********Login Test passed*************
+2020-09-04T13:05:57,216 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-04T13:06:00,720 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:17) - ********* starting TC_LoginDDT_002 *************
+2020-09-04T13:06:05,924 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:39) - ********* Providing login details to application *************
+2020-09-04T13:06:18,958 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:58) - **************** loginTest is Passed ************* 
+2020-09-04T13:06:24,909 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:39) - ********* Providing login details to application *************
+2020-09-04T13:06:32,871 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:81) - **************** loginTest is Passed ************* 
+2020-09-04T13:06:32,876 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:39) - ********* Providing login details to application *************
+2020-09-04T13:06:41,278 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:81) - **************** loginTest is Passed ************* 
+2020-09-04T13:06:41,280 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:39) - ********* Providing login details to application *************
+2020-09-04T13:06:49,412 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:81) - **************** loginTest is Passed ************* 
+2020-09-04T13:06:49,414 [main] INFO  (TC_002_DataDrivenTest_Login_with_Fillo.java:89) - ********* Finished  TC_LoginDDT_002 *************
+2020-09-04T13:06:50,141 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-04T13:06:53,807 [main] INFO  (TC_003_AddCustomerTest.java:17) - ********* starting TC_AddCustomerTest_003 *************
+2020-09-04T13:07:03,396 [main] INFO  (TC_003_AddCustomerTest.java:26) - *********Adding new customer *************
+2020-09-04T13:07:10,374 [main] INFO  (TC_003_AddCustomerTest.java:35) - ***************  Providing customer details  *********** 
+2020-09-04T13:07:23,656 [main] INFO  (TC_003_AddCustomerTest.java:54) - ***************  Customer added succesfully *********** 
+2020-09-04T13:07:23,657 [main] INFO  (TC_003_AddCustomerTest.java:62) - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2020-09-04T13:07:24,413 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-04T13:07:28,056 [main] INFO  (TC_004_SearchCustomerByEmail.java:19) - ********* starting TC_SearchCustomerByEmail_004 *************
+2020-09-04T13:07:39,457 [main] INFO  (TC_004_SearchCustomerByEmail.java:42) - ********* Search customer by email is passed *************
+2020-09-04T13:07:39,458 [main] INFO  (TC_004_SearchCustomerByEmail.java:51) - ********* End of TC_SearchCustomerByEmail_004 *************
+2020-09-04T13:07:40,172 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-04T13:07:43,872 [main] INFO  (TC_005_SearchCustomerByName.java:19) - ********* starting TC_SearchCustomerByName_005 *************
+2020-09-04T13:07:58,442 [main] INFO  (TC_005_SearchCustomerByName.java:43) - ********* Search customer by name is failed*************
+2020-09-04T13:07:59,649 [main] INFO  (BaseClass.java:51) - ********* starting TC on chrome*************
+2020-09-04T13:08:03,598 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:18) - ********* starting TC_LoginDDT_002 *************
+2020-09-04T13:08:16,837 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:34) - **************** loginTest is Passed ************* 
+2020-09-04T13:08:21,796 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:62) - ********* Finished  TC_LoginDDT_002 *************
+2020-09-04T13:08:21,810 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:18) - ********* starting TC_LoginDDT_002 *************
+2020-09-04T13:08:29,259 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:57) - **************** loginTest is Passed ************* 
+2020-09-04T13:08:29,260 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:62) - ********* Finished  TC_LoginDDT_002 *************
+2020-09-04T13:08:29,268 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:18) - ********* starting TC_LoginDDT_002 *************
+2020-09-04T13:08:37,524 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:57) - **************** loginTest is Passed ************* 
+2020-09-04T13:08:37,525 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:62) - ********* Finished  TC_LoginDDT_002 *************
+2020-09-04T13:08:37,535 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:18) - ********* starting TC_LoginDDT_002 *************
+2020-09-04T13:08:44,911 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:57) - **************** loginTest is Passed ************* 
+2020-09-04T13:08:44,912 [main] INFO  (TC_006_LoginDDT_with_Apachi_poi.java:62) - ********* Finished  TC_LoginDDT_002 *************
