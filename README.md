@@ -1,5 +1,4 @@
-# TDD_Hybrid_Framework_For_nopCommerce_Webapp
-TDD Hybrid Framework For "nopCommerce" Web app  
+# TDD Hybrid Framework For "nopCommerce" Web app  
 Aug 2020 – Sep 2020  
 
 Project description  
