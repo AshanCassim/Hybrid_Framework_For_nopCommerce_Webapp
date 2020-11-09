@@ -1,8 +1,8 @@
-# TDD Hybrid Framework For "nopCommerce" Web app V1 
+# Hybrid Framework For "nopCommerce" Web app V1 
 Aug 2020 – Sep 2020  
 
 Project description  
-This is a Hybrid Framework with TDD approach For “nopCommerce” website’s  
+This is a Hybrid Framework For “nopCommerce” website’s  
 
 • Login  
 • Add Customer  
